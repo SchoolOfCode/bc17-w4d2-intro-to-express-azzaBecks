@@ -1,0 +1,20 @@
+{
+  "name": "bc17-w4d2-intro-to-express-azzabecks",
+  "version": "1.0.0",
+  "description": "npm install express",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "npm install express",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "bc17-w4d2-intro-to-express-azzabecks"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
